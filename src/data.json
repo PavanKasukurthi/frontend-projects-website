@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "techshop e-commerce website",
+    "link": "https://techshop-ecommerce-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/techshop-ecommerce",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200458/project-website/techshop_jjpegn.jpg"
+  },
+  {
+    "id": "2",
+    "name": "github user search",
+    "link": "https://react-github-user-search-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/github-search-react",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200668/project-website/github_user_search_m3rpzv.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Cocktails project",
+    "link": "https://cocktails-react-project-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/cocktails-project",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200284/project-website/cocktail_hl3lyx.jpg"
+  },
+  {
+    "id": "4",
+    "name": "unsplash images project",
+    "link": "https://unsplash-images-search-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/unsplash-images-project",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200797/project-website/unsplash_images_project_ssm8so.jpg"
+  },
+  {
+    "id": "5",
+    "name": "tastemate",
+    "link": "https://react-restaurant-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/react-restaurant",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200974/project-website/tastemate_ruggul.jpg"
+  },
+  {
+    "id": "6",
+    "name": "advice generator",
+    "link": "https://advice-generator-app-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/advice-generator-app",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/v1645105312/Challenges/syo43ktrlu3huqaqye2c.jpg"
+  },
+  {
+    "id": "7",
+    "name": "3-column preview card component",
+    "link": "https://four-card-feature-section-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/3-column-preview-card-component-main",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ap7h50kkrdq7zclbokox.jpg"
+  },
+  {
+    "id": "8",
+    "name": "QR code component",
+    "link": "https://qr-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/qr-code-component-main",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cybxdhr4wewlscvco9dd.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Product Preview Card component",
+    "link": "https://qr-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/product-preview-card-component-main",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/d0bm3lh8bp36gyi3jiop.jpg"
+  },
+  {
+    "id": "10",
+    "name": "NFT Card component",
+    "link": "https://nft-preview-card-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/nft-preview-card-component-main",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sr9i7z9p1tfb2m40pigu.jpg"
+  },
+  {
+    "id": "11",
+    "name": "interactive rating component",
+    "link": "https://interactive-rating-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/interactive-rating-component",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/dm3s8oqtz0mwcaygqjhy.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Stats preview card component",
+    "link": "https://stats-preview-card-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/stats-preview-card-component-main",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/t26y9p3veejvbc9biv3f.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Results summary component",
+    "link": "https://main--results-summary-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/results-summary-component",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/aqbssn4qnnb7jwp9kbw2.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Four card feature section",
+    "link": "https://four-card-feature-section-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/four-card-feature-section-master",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/wbsdema37uawkvkp9lab.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Single price grid component",
+    "link": "https://single-price-grid-component-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/single-price-grid-component-master",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ouvhkqeq9dhokut9payi.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Huddle landing page with a single introductory section",
+    "link": "https://huddle-single-page-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/huddle-landing-page-with-single-introductory-section-master",
+    "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/m8aueljlhfwzve7zxpy7.jpg"
+  }
+]
