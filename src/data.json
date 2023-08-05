@@ -7,7 +7,14 @@
     "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200458/project-website/techshop_jjpegn.jpg"
   },
   {
-    "id": "2",
+    "id": "askjdbnmxcbzm",
+    "name": "dictionary",
+    "link": "https://main--react-dictionary-app-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/dictionary-app",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1691252796/dictionary_fawsj2.jpg"
+  },
+  {
+    "id": "fjnzxcnasajdn",
     "name": "github user search",
     "link": "https://react-github-user-search-pavan.netlify.app/",
     "gitLink": "https://github.com/PavanKasukurthi/github-search-react",
