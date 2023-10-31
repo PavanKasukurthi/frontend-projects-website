@@ -21,6 +21,13 @@
     "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1686200668/project-website/github_user_search_m3rpzv.jpg"
   },
   {
+    "id": "fjnzxcnasajdn",
+    "name": "Space tourism website",
+    "link": "https://space-tourism-website-pavan.netlify.app/",
+    "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/space-tourism-website",
+    "poster": "https://res.cloudinary.com/ddudiicp7/image/upload/v1698763574/project-website/Space_tourism_p8xhxh.jpg"
+  },
+  {
     "id": "3",
     "name": "Cocktails project",
     "link": "https://cocktails-react-project-pavan.netlify.app/",
@@ -51,7 +58,7 @@
   {
     "id": "7",
     "name": "3-column preview card component",
-    "link": "https://four-card-feature-section-pavan.netlify.app/",
+    "link": "https://3-column-preview-card-pavan.netlify.app/",
     "gitLink": "https://github.com/PavanKasukurthi/frontend-mentor/tree/main/3-column-preview-card-component-main",
     "poster": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ap7h50kkrdq7zclbokox.jpg"
   },
